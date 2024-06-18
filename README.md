@@ -17,4 +17,4 @@ This repository consist of a the code and data used for the thesis from science 
 - ```Evaluation_set.xlsx```
     -   11 articles with their corresponding rankings + explenation from the Annotated data file used in the Evaluation phase
 - ```Summarized_Articles_Phi3.xlsx```
-    - 11 articles from the ```Evaluation_set``` that are summarized by the open-source LLM Phi3 by the 4 different prompts 
+    - 11 articles from the ```Evaluation_set.xlsx``` that are summarized by the open-source LLM Phi3 by the 4 different prompts 
