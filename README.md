@@ -11,6 +11,7 @@ This repository consist of a the code and data used for the thesis from science 
 
 #### Data folder
 - Annotated data.xlsx
+    - d
 - Development_set.xlsx
 - Evaluation_set.xlsx
 - Summarized_Articles_Phi3.xlsx
