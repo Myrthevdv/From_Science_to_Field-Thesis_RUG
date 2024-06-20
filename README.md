@@ -48,7 +48,7 @@ scp -r  s-nummer@login1.hb.hpc.rug.nl:~/Summarized_Articles_Phi3.xlsx Summarized
 #### The Code
 
 -  ```phi3.sh```
-    - Bash file which contains the code to send a job to Habrok
+    - Bash file which contains the code to send a job with a certain python file to Habrok
 -  ```phi3.py```
     - The Phi3 code with the 4 different prompts in the evaluation phase
 -  ```phi3_development.py```
