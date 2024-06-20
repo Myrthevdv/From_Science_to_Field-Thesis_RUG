@@ -49,8 +49,11 @@ scp -r  s-nummer@login1.hb.hpc.rug.nl:~/Summarized_Articles_Phi3.xlsx Summarized
 #### The Code
 
 -  ```phi3.sh```
+    -
 -  ```phi3.py```
+    -
 -  ```phi3_development.py```
+    -
 
 
 #### Data folder
