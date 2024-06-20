@@ -137,6 +137,6 @@ for idx, row in evaluation_df.iterrows():
 results_df = pd.DataFrame(results)
 
 # Save the results to a new Excel file
-results_df.to_excel('Summarized_Articles.xlsx', index=False)
+results_df.to_excel('Summarized_Articles_Phi3', index=False)
 
 
