@@ -15,7 +15,7 @@ This repository consist of a the code and data used for the thesis from science 
 Habrok is only usable for people from the RUG. 
 Before you can log in to Habrok, you need to get access using the following link: https://wiki.hpc.rug.nl/habrok/introduction/policies.
 
-When you log in you can log in to habrok and use the open-source LLM phi3 with the following input:
+When you have access can log in to Habrok and use the open-source LLM phi3 with the following prompts:
 
 ```
 
