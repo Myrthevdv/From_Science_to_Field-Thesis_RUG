@@ -18,8 +18,10 @@ Before you can log in to Habrok, you need to get access using the following link
 When you have access can log in to Habrok and use the open-source LLM Phi3 with the following prompts:
 
 ```
-#Login
+# Login
 ssh -Y s-nummer@login1.hb.hpc.rug.n
+
+# 
 ``` 
 
 #### Data folder
