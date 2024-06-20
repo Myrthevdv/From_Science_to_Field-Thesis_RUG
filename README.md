@@ -27,7 +27,6 @@ python3.11 -m venv .jupyter_venv
 # activate the virtual environment
 source .jupyter_venv/bin/activate
 
-
 # Send files from your local computer to Habrok:
 scp -r phi3_development.py s4977068@login1.hb.hpc.rug.nl:~/
 scp -r phi3.py s4977068@login1.hb.hpc.rug.nl:~/
