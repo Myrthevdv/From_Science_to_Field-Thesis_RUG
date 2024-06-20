@@ -19,7 +19,14 @@ When you have access can log in to Habrok and use the open-source LLM Phi3 with 
 
 ```
 # Login:
-ssh -Y s-nummer@login1.hb.hpc.rug.n
+ssh -Y s-nummer@login1.hb.hpc.rug.nl
+
+# Send files from your local computer to Habrok:
+scp -r phi3_development.py s4977068@login1.hb.hpc.rug.nl:~/
+scp -r phi3.py s4977068@login1.hb.hpc.rug.nl:~/
+scp -r phi3.sh s4977068@login1.hb.hpc.rug.nl:~/
+scp -r Evaluation_set.xlsx s4977068@login1.hb.hpc.rug.nl:~/
+scp -r Development_set.xlsx s4977068@login1.hb.hpc.rug.nl:~/
 
 # To submit the job/code:
 sbatch phi3.sh
@@ -29,6 +36,9 @@ Jobinfo JOBNUMBER
 
 # Shows the running results of the model for a specific job “NUMBER”
 nano slurm-NUMBER.ou
+
+# Get the output back on your local computer:
+scp -r  s-nummer@login1.hb.hpc.rug.nl:~/Summarized_Articles_Phi3.xlsx Summarized_Articles_Phi3.xlsx
 ``` 
 
 #### Data folder
