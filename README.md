@@ -11,7 +11,6 @@ This repository consist of a the code and data used for the thesis from science 
 
 ### Habrok
 
-
 Habrok is only usable for people from the RUG. 
 Before you can log in to Habrok, you need to get access using the following link: https://wiki.hpc.rug.nl/habrok/introduction/policies.
 
@@ -49,11 +48,11 @@ scp -r  s-nummer@login1.hb.hpc.rug.nl:~/Summarized_Articles_Phi3.xlsx Summarized
 #### The Code
 
 -  ```phi3.sh```
-    -
+    - Bash file which contains the code to send a job to Habrok
 -  ```phi3.py```
-    -
+    - The Phi3 code with the 4 different prompts in the evaluation phase
 -  ```phi3_development.py```
-    -
+    - The Phi3 code with the 4 different prompts which is used in the development phase
 
 
 #### Data folder
