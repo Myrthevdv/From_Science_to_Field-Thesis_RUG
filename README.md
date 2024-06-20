@@ -21,7 +21,8 @@ When you have access can log in to Habrok and use the open-source LLM Phi3 with 
 # Login
 ssh -Y s-nummer@login1.hb.hpc.rug.n
 
-# 
+#
+sbatch phi3.sh
 ``` 
 
 #### Data folder
