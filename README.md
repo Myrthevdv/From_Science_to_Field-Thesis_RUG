@@ -11,6 +11,7 @@ This repository consists of the code and data used for the thesis from science t
 
 ### Habrok
 
+I worked with my models on Habrok.
 Habrok is only usable for people from the RUG. 
 Before you can log in to Habrok, you need to get access using the following link: https://wiki.hpc.rug.nl/habrok/introduction/policies.
 
